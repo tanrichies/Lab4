@@ -1,11 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <report-views version="2.0" >
  <header>
+<<<<<<< HEAD
   <DateModified>2016-03-02T12:26:11</DateModified>
   <ModuleName>clk_500hz</ModuleName>
   <SummaryTimeStamp>Unknown</SummaryTimeStamp>
   <SavedFilePath>C:/Users/tanri/Dropbox/CECS 301 Lab/Lab4/iseconfig/clk_500hz.xreport</SavedFilePath>
   <ImplementationReportsDirectory>C:/Users/tanri/Dropbox/CECS 301 Lab/Lab4\</ImplementationReportsDirectory>
+=======
+  <DateModified>2016-03-02T13:45:22</DateModified>
+  <ModuleName>clk_500hz</ModuleName>
+  <SummaryTimeStamp>Unknown</SummaryTimeStamp>
+  <SavedFilePath>C:/Users/Harrison/Desktop/New folder/Lab4/iseconfig/clk_500hz.xreport</SavedFilePath>
+  <ImplementationReportsDirectory>C:/Users/Harrison/Desktop/New folder/Lab4\</ImplementationReportsDirectory>
+>>>>>>> origin/master
   <DateInitialized>2016-02-29T16:29:08</DateInitialized>
   <EnableMessageFiltering>false</EnableMessageFiltering>
  </header>

@@ -8,5 +8,38 @@
 <!-- Copyright (c) 1995-2013 Xilinx, Inc.  All rights reserved.    -->
 
 <messages>
+<<<<<<< HEAD
+=======
+<msg type="info" file="ProjectMgmt" num="1845" ><arg fmt="%s" index="1">Analyzing Verilog file &quot;C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v&quot; into library work</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">30</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">31</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">32</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">33</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">34</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">35</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">36</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">37</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+<msg type="error" file="ProjectMgmt" num="806" >&quot;<arg fmt="%s" index="1">C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v</arg>&quot; Line <arg fmt="%d" index="2">38</arg>. <arg fmt="%s" index="3">Syntax error near &quot;=&quot;.</arg>
+</msg>
+
+>>>>>>> origin/master
 </messages>
 

@@ -9,13 +9,21 @@
          <ClosedNodesVersion>2</ClosedNodesVersion>
       </ClosedNodes>
       <SelectedItems>
+<<<<<<< HEAD
          <SelectedItem>clk_500hz (C:/Users/tanri/Dropbox/CECS 301 Lab/Lab4/clk_500hz.v)</SelectedItem>
+=======
+         <SelectedItem>ad_mux (C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v)</SelectedItem>
+>>>>>>> origin/master
       </SelectedItems>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
       <ViewHeaderState orientation="horizontal" >000000ff0000000000000001000000010000000000000000000000000000000002020000000100000001000000640000012c000000020000000000000000000000000200000064ffffffff0000008100000003000000020000012c0000000100000003000000000000000100000003</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >true</UserChangedColumnWidths>
+<<<<<<< HEAD
       <CurrentItem>clk_500hz (C:/Users/tanri/Dropbox/CECS 301 Lab/Lab4/clk_500hz.v)</CurrentItem>
+=======
+      <CurrentItem>ad_mux (C:/Users/Harrison/Desktop/New folder/Lab4/ad_mux.v)</CurrentItem>
+>>>>>>> origin/master
    </ItemView>
    <ItemView engineview="SynthesisOnly" sourcetype="" guiview="Process" >
       <ClosedNodes>
@@ -38,9 +46,9 @@
       <SelectedItems/>
       <ScrollbarPosition orientation="vertical" >0</ScrollbarPosition>
       <ScrollbarPosition orientation="horizontal" >0</ScrollbarPosition>
-      <ViewHeaderState orientation="horizontal" >000000ff000000000000000100000000000000000100000000000000000000000000000000000002e3000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002100000001000000000000005d0000000100000000000002280000000100000000</ViewHeaderState>
+      <ViewHeaderState orientation="horizontal" >000000ff00000000000000010000000000000000010000000000000000000000000000000000000303000000040101000100000000000000000000000064ffffffff0000008100000000000000040000003d00000001000000000000002100000001000000000000005d0000000100000000000002480000000100000000</ViewHeaderState>
       <UserChangedColumnWidths orientation="horizontal" >false</UserChangedColumnWidths>
-      <CurrentItem></CurrentItem>
+      <CurrentItem>clk_500hz.v</CurrentItem>
    </ItemView>
    <ItemView guiview="Library" >
       <ClosedNodes>
